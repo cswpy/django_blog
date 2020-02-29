@@ -6,3 +6,4 @@ django_test
 db.sqlite3
 /static
 .DS_Store
+.autogit
